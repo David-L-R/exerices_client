@@ -1,0 +1,502 @@
+[
+  {
+    "id": 18744,
+    "isAlive": true,
+    "age": 44,
+    "house": "Greyjoy",
+    "name": "Millie Mendez",
+    "gender": "female",
+    "familyConnection": "marriage",
+    "fighting": "Martell"
+  },
+  {
+    "id": 12511,
+    "isAlive": true,
+    "age": 53,
+    "house": "Martell",
+    "name": "Lowe Watts",
+    "gender": "male",
+    "familyConnection": "crowned",
+    "fighting": "Arryn"
+  },
+  {
+    "id": 12591,
+    "isAlive": false,
+    "age": 56,
+    "house": "Stark",
+    "name": "Amelia Mueller",
+    "gender": "female",
+    "familyConnection": "inheritance",
+    "fighting": "Arryn"
+  },
+  {
+    "id": 11164,
+    "isAlive": false,
+    "age": 37,
+    "house": "Tully",
+    "name": "Cathryn Perkins",
+    "gender": "female",
+    "familyConnection": "crowned",
+    "fighting": "Tully"
+  },
+  {
+    "id": 13594,
+    "isAlive": true,
+    "age": 34,
+    "house": "Arryn",
+    "name": "Richmond Barron",
+    "gender": "male",
+    "familyConnection": "inheritance",
+    "fighting": "Tully"
+  },
+  {
+    "id": 16549,
+    "isAlive": false,
+    "age": 28,
+    "house": "Martell",
+    "name": "Cooke Daniel",
+    "gender": "male",
+    "familyConnection": "crowned",
+    "fighting": "Baratheon"
+  },
+  {
+    "id": 19816,
+    "isAlive": true,
+    "age": 35,
+    "house": "Lannister",
+    "name": "Cameron Patel",
+    "gender": "male",
+    "familyConnection": "marriage",
+    "fighting": "Tully"
+  },
+  {
+    "id": 12432,
+    "isAlive": false,
+    "age": 24,
+    "house": "Greyjoy",
+    "name": "Chen Wiley",
+    "gender": "male",
+    "familyConnection": "blood",
+    "fighting": "Baratheon"
+  },
+  {
+    "id": 15864,
+    "isAlive": true,
+    "age": 32,
+    "house": "Baratheon",
+    "name": "Florine Maxwell",
+    "gender": "female",
+    "familyConnection": "crowned",
+    "fighting": "Tully"
+  },
+  {
+    "id": 14471,
+    "isAlive": false,
+    "age": 50,
+    "house": "Tully",
+    "name": "Clements James",
+    "gender": "male",
+    "familyConnection": "blood",
+    "fighting": "Baratheon"
+  },
+  {
+    "id": 19638,
+    "isAlive": false,
+    "age": 30,
+    "house": "Lannister",
+    "name": "Margie Joseph",
+    "gender": "female",
+    "familyConnection": "marriage",
+    "fighting": "Tully"
+  },
+  {
+    "id": 13231,
+    "isAlive": false,
+    "age": 17,
+    "house": "Baratheon",
+    "name": "Colon Dillard",
+    "gender": "male",
+    "familyConnection": "marriage",
+    "fighting": "Arryn"
+  },
+  {
+    "id": 15927,
+    "isAlive": true,
+    "age": 62,
+    "house": "Martell",
+    "name": "Buckner Mcconnell",
+    "gender": "male",
+    "familyConnection": "inheritance",
+    "fighting": "Lannister"
+  },
+  {
+    "id": 11117,
+    "isAlive": true,
+    "age": 42,
+    "house": "Greyjoy",
+    "name": "Paulette Jarvis",
+    "gender": "female",
+    "familyConnection": "crowned",
+    "fighting": "Lannister"
+  },
+  {
+    "id": 19443,
+    "isAlive": false,
+    "age": 54,
+    "house": "Tully",
+    "name": "Jennings Allison",
+    "gender": "male",
+    "familyConnection": "crowned",
+    "fighting": "Arryn"
+  },
+  {
+    "id": 13924,
+    "isAlive": true,
+    "age": 54,
+    "house": "Stark",
+    "name": "Alisa Blanchard",
+    "gender": "female",
+    "familyConnection": "crowned",
+    "fighting": "Baratheon"
+  },
+  {
+    "id": 18742,
+    "isAlive": true,
+    "age": 15,
+    "house": "Tully",
+    "name": "Bernadette Hudson",
+    "gender": "female",
+    "familyConnection": "marriage",
+    "fighting": "Tully"
+  },
+  {
+    "id": 16849,
+    "isAlive": false,
+    "age": 51,
+    "house": "Greyjoy",
+    "name": "Cobb Stanton",
+    "gender": "male",
+    "familyConnection": "crowned",
+    "fighting": "Baratheon"
+  },
+  {
+    "id": 17417,
+    "isAlive": true,
+    "age": 58,
+    "house": "Baratheon",
+    "name": "Ofelia Dorsey",
+    "gender": "female",
+    "familyConnection": "inheritance",
+    "fighting": "Greyjoy"
+  },
+  {
+    "id": 12190,
+    "isAlive": false,
+    "age": 19,
+    "house": "Tully",
+    "name": "Pam Bennett",
+    "gender": "female",
+    "familyConnection": "blood",
+    "fighting": "Tully"
+  },
+  {
+    "id": 10951,
+    "isAlive": true,
+    "age": 17,
+    "house": "Lannister",
+    "name": "Nielsen Norton",
+    "gender": "male",
+    "familyConnection": "inheritance",
+    "fighting": "Baratheon"
+  },
+  {
+    "id": 17582,
+    "isAlive": true,
+    "age": 40,
+    "house": "Tully",
+    "name": "Kasey Dale",
+    "gender": "female",
+    "familyConnection": "marriage",
+    "fighting": "Baratheon"
+  },
+  {
+    "id": 16739,
+    "isAlive": true,
+    "age": 45,
+    "house": "Arryn",
+    "name": "Calderon Burks",
+    "gender": "male",
+    "familyConnection": "crowned",
+    "fighting": "Stark"
+  },
+  {
+    "id": 15871,
+    "isAlive": true,
+    "age": 57,
+    "house": "Greyjoy",
+    "name": "Doyle Spears",
+    "gender": "male",
+    "familyConnection": "inheritance",
+    "fighting": "Lannister"
+  },
+  {
+    "id": 19230,
+    "isAlive": true,
+    "age": 56,
+    "house": "Martell",
+    "name": "Mandy Morris",
+    "gender": "female",
+    "familyConnection": "crowned",
+    "fighting": "Lannister"
+  },
+  {
+    "id": 11842,
+    "isAlive": true,
+    "age": 45,
+    "house": "Martell",
+    "name": "Nolan Abbott",
+    "gender": "male",
+    "familyConnection": "crowned",
+    "fighting": "Greyjoy"
+  },
+  {
+    "id": 13409,
+    "isAlive": false,
+    "age": 29,
+    "house": "Greyjoy",
+    "name": "Abby Brady",
+    "gender": "female",
+    "familyConnection": "blood",
+    "fighting": "Arryn"
+  },
+  {
+    "id": 15733,
+    "isAlive": true,
+    "age": 31,
+    "house": "Greyjoy",
+    "name": "Buchanan Gates",
+    "gender": "male",
+    "familyConnection": "inheritance",
+    "fighting": "Tully"
+  },
+  {
+    "id": 13695,
+    "isAlive": true,
+    "age": 16,
+    "house": "Stark",
+    "name": "Stanley Nguyen",
+    "gender": "male",
+    "familyConnection": "inheritance",
+    "fighting": "Stark"
+  },
+  {
+    "id": 16124,
+    "isAlive": true,
+    "age": 63,
+    "house": "Stark",
+    "name": "Oconnor Bowen",
+    "gender": "male",
+    "familyConnection": "crowned",
+    "fighting": "Baratheon"
+  },
+  {
+    "id": 16861,
+    "isAlive": true,
+    "age": 14,
+    "house": "Arryn",
+    "name": "Wendi Simpson",
+    "gender": "female",
+    "familyConnection": "blood",
+    "fighting": "Martell"
+  },
+  {
+    "id": 16815,
+    "isAlive": true,
+    "age": 41,
+    "house": "Tully",
+    "name": "Copeland Ford",
+    "gender": "male",
+    "familyConnection": "crowned",
+    "fighting": "Martell"
+  },
+  {
+    "id": 18768,
+    "isAlive": true,
+    "age": 14,
+    "house": "Martell",
+    "name": "Sharp Castillo",
+    "gender": "male",
+    "familyConnection": "marriage",
+    "fighting": "Tully"
+  },
+  {
+    "id": 14720,
+    "isAlive": false,
+    "age": 23,
+    "house": "Stark",
+    "name": "Brenda Shepard",
+    "gender": "female",
+    "familyConnection": "marriage",
+    "fighting": "Stark"
+  },
+  {
+    "id": 16419,
+    "isAlive": true,
+    "age": 65,
+    "house": "Stark",
+    "name": "Henderson Webb",
+    "gender": "male",
+    "familyConnection": "inheritance",
+    "fighting": "Lannister"
+  },
+  {
+    "id": 11869,
+    "isAlive": false,
+    "age": 65,
+    "house": "Martell",
+    "name": "Goff Trujillo",
+    "gender": "male",
+    "familyConnection": "blood",
+    "fighting": "Martell"
+  },
+  {
+    "id": 16792,
+    "isAlive": true,
+    "age": 18,
+    "house": "Lannister",
+    "name": "Valenzuela Calhoun",
+    "gender": "male",
+    "familyConnection": "inheritance",
+    "fighting": "Martell"
+  },
+  {
+    "id": 12227,
+    "isAlive": true,
+    "age": 24,
+    "house": "Greyjoy",
+    "name": "Dianna Black",
+    "gender": "female",
+    "familyConnection": "crowned",
+    "fighting": "Baratheon"
+  },
+  {
+    "id": 17640,
+    "isAlive": false,
+    "age": 44,
+    "house": "Lannister",
+    "name": "Koch Ryan",
+    "gender": "male",
+    "familyConnection": "blood",
+    "fighting": "Arryn"
+  },
+  {
+    "id": 13972,
+    "isAlive": true,
+    "age": 25,
+    "house": "Stark",
+    "name": "Compton Oliver",
+    "gender": "male",
+    "familyConnection": "inheritance",
+    "fighting": "Stark"
+  },
+  {
+    "id": 13131,
+    "isAlive": false,
+    "age": 49,
+    "house": "Lannister",
+    "name": "Jerri Stevenson",
+    "gender": "female",
+    "familyConnection": "crowned",
+    "fighting": "Tully"
+  },
+  {
+    "id": 12779,
+    "isAlive": true,
+    "age": 45,
+    "house": "Arryn",
+    "name": "Blevins Pollard",
+    "gender": "male",
+    "familyConnection": "crowned",
+    "fighting": "Stark"
+  },
+  {
+    "id": 13414,
+    "isAlive": true,
+    "age": 61,
+    "house": "Greyjoy",
+    "name": "Kitty Haley",
+    "gender": "female",
+    "familyConnection": "marriage",
+    "fighting": "Baratheon"
+  },
+  {
+    "id": 19063,
+    "isAlive": false,
+    "age": 53,
+    "house": "Lannister",
+    "name": "James Marsh",
+    "gender": "male",
+    "familyConnection": "crowned",
+    "fighting": "Arryn"
+  },
+  {
+    "id": 15583,
+    "isAlive": false,
+    "age": 18,
+    "house": "Baratheon",
+    "name": "Vera Nielsen",
+    "gender": "female",
+    "familyConnection": "blood",
+    "fighting": "Lannister"
+  },
+  {
+    "id": 18351,
+    "isAlive": true,
+    "age": 39,
+    "house": "Arryn",
+    "name": "Livingston Howell",
+    "gender": "male",
+    "familyConnection": "marriage",
+    "fighting": "Greyjoy"
+  },
+  {
+    "id": 17152,
+    "isAlive": true,
+    "age": 50,
+    "house": "Stark",
+    "name": "Russo Hale",
+    "gender": "male",
+    "familyConnection": "inheritance",
+    "fighting": "Tully"
+  },
+  {
+    "id": 19136,
+    "isAlive": false,
+    "age": 57,
+    "house": "Greyjoy",
+    "name": "Spears Walton",
+    "gender": "male",
+    "familyConnection": "marriage",
+    "fighting": "Baratheon"
+  },
+  {
+    "id": 12621,
+    "isAlive": true,
+    "age": 33,
+    "house": "Stark",
+    "name": "Caldwell Whitehead",
+    "gender": "male",
+    "familyConnection": "blood",
+    "fighting": "Tully"
+  },
+  {
+    "id": 11323,
+    "isAlive": false,
+    "age": 45,
+    "house": "Tully",
+    "name": "Natalia Battle",
+    "gender": "female",
+    "familyConnection": "inheritance",
+    "fighting": "Tully"
+  }
+]
