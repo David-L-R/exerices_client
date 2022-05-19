@@ -20,6 +20,8 @@ const welcomeMessage = async () => {
 
 // TASK request all character of a specific house
 
+// TASK request all fights between houses
+
 // TASK request the future age of characters, passing the number of years from now
 
 // Run 'node client.js' to execute these functions

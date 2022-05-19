@@ -10,11 +10,6 @@ const houses = [
 ];
 const app = express();
 
-// GET hello player
-app.get("/", (req, res) => {
-  res.send("Welcome to Game of Thrones");
-});
-
 // GET all characters
 app.get("/characters", (req, res) => {
   res.send(characters);
@@ -24,7 +19,7 @@ app.get("/characters", (req, res) => {
 app.get("/characters/:id", (req, res) => {
   const { id } = req.params;
 
-  // BUG: no user is found!
+  // TASK: SOLVE BUG: no user is found!
   const character = characters.find((character) => character.id === id);
 
   // BONUS TASK: send an error if no user was found
@@ -43,11 +38,17 @@ app.get("/house/:name", (req, res) => {
 
   // BONUS TASK: send an error if there are no users
 
-  // BONUS TASK: check if house given is in the list of houses
+  // BONUS TASK: 💪 check if house given is in the list of houses
   // If it is not in the list, send an error saying: "incorrect house name"
   // The house list is on top
 
   res.send(character);
+});
+
+// GET fights between houses
+app.get("/fights", (req, res) => {
+  // TASK: return a list of objects that contain:
+  // { house , fighting }
 });
 
 // BONUS!!!
